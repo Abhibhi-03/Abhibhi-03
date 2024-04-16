@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 | Category         | Technologies                                          |
 |------------------|-------------------------------------------------------|
-| Programming      | `C#`, `C++`, `JavaScript`, `Python`, `Java`,          |
+| Programming      | `C#`, `C++`, `JavaScript`, `Python`, `Java`           |
 | Frameworks       | `.NET`, `Flask`                                       |
 | Databases        | `SQL Server`, `MySQL`, `MongoDB`                      |
 | Tools & Platforms| `Visual Studio`, `Git`, `Docker`, `Azure`             |
-| Others           | `HTML5`, `CSS3`, `Bootstrap`,                         |
+| Others           | `HTML5`, `CSS3`, `Bootstrap`                          |
 
 ### 📈 GitHub Stats
 
