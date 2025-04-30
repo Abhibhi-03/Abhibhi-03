@@ -1,51 +1,47 @@
+# Abhi Patel
 
-<!--
-**Abhibhi-03/Abhibhi-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineering | Interned as a QA & Automation Tester
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a final-year Software Engineering student at Seneca Polytechnic with hands-on experience in AI, machine learning, software design, QA automation, and cross-functional collaboration in agile environments. During my internship at Earth Rangers, I contributed to the testing of mobile and web-based applications through a combination of manual and automated testing using Appium, Selenium and Python.
 
-# 👋 Hi, I'm Abhi!
+I am driven by an interest in building scalable, maintainable systems and a passion for improving software quality through test automation and data-driven validation. My academic background, combined with real-world co-op experiences, has allowed me to build strong technical skills and a deep understanding of the SDLC and QA workflows.
 
-## 🌱 I'm a Software Engineering Intern!
+### Education
 
-### 👨‍💻 About Me
-- 🎓 Pursuing a Bachelor’s degree in **Software Engineering** at Seneca Polytechnic
-- 📚 I specialize in **JavaScript, HTML5, CSS, Java, Python & C++**
-- 🔭 Currently working on **web applications, machine learning, software design** and **data management systems**
-- 🌟 Passionate about solving problems and enhancing user experiences through **effective software solutions**
+**Bachelor of Software Engineering**  
+Seneca Polytechnic, Toronto, ON  
+*Expected Graduation: August 2025*
 
-### 🛠 Tech Stack
+### Experience
 
-| Category         | Technologies                                          |
-|------------------|-------------------------------------------------------|
-| Programming      | `C#`, `C++`, `JavaScript`, `Python`, `Java`           |
-| Frameworks       | `.NET`, `Flask`                                       |
-| Databases        | `SQL Server`, `MySQL`, `MongoDB`                      |
-| Tools & Platforms| `Visual Studio`, `Git`, `Docker`, `Azure`             |
-| Others           | `HTML5`, `CSS3`, `Bootstrap`                          |
+**Earth Rangers – Software QA & Automation Intern**  
+*May 2024 – April 2025*  
+- Designed and implemented automated test scripts using **Appium** and **Python** for mobile applications on Android and iOS.  
+- Created and executed comprehensive manual test cases for new features and regression testing.  
+- Identified, documented, and communicated bugs using Jira, contributing to faster resolutions and improved app stability.  
+- Collaborated with cross-functional teams including product managers, developers, and UI/UX designers to ensure feature completeness and performance.  
+- Took initiative in building technical documentation and summarizing test reports with key insights and recommendations.
 
-### 📈 GitHub Stats
+### Technical Skills
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhibhi-03&show_icons=true&theme=tokyonight)
+| Category           | Technologies and Tools                                             |
+|--------------------|--------------------------------------------------------------------|
+| Programming        | Python, C++, Java, JavaScript, C#                                  |
+| Web Technologies   | HTML5, CSS3, Bootstrap                                             |
+| Frameworks         | .NET, Flask                                                        |
+| Databases          | SQL Server, MySQL, MongoDB                                         |
+| AI/ML & CV         | TensorFlow, OpenCV, Scikit-learn, Keras                            |
+| Embedded Systems   | Mbed OS, Arduino                                                   |
+| Tools & Platforms  | Git, GitHub, Azure, Firebase, Visual Studio                        |
+| Testing & CI/CD    | Jira, GitHub Actions, Android Studio, Xcode, Appium, Selenium      |
 
-### 📫 How to Reach Me
+### Contact
 
-- 📧 Email me at [patabhi045@gmail.com](mailto:patabhi045@gmail.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhi-patel-565301251/)
+- Email: [patabhi045@gmail.com](mailto:patabhi045@gmail.com)  
+- LinkedIn: [linkedin.com/in/abhi-patel-565301251](https://www.linkedin.com/in/abhi-patel-565301251/)
 
-### ⚡ Fun Fact
+---
 
-- I love to work in a team!
-- I love to explore new technologies and build small projects to understand the intricacies of each tool and technology I learn!
-- I love to travel!
-
+*Currently seeking opportunities in Software Development, Machine learning and AI and QA Automation from September 2025.*
